@@ -1,20 +1,19 @@
-## Welcome to my second GitHub Page!
+# Edward Figarsky
 
-<!-- You can use the [editor on GitHub](https://github.com/westrock/westrock.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
--->
+I am experienced in all phases of commercial and in-house software development, including requirements gathering, analysis and design, authoring specifications and documentation, programming, database design, team-leadership, and pre- and post-deployment.  I am able to understand and apply business needs in order to architect solutions that balance the conflicting criteria of cost, time, and functionality in order to provide maintainable and efficient solutions.  My experience as a small business owner, being responsible for all aspects of operation from back office to the sales floor has provided me with a rich understanding of business that is not commonly found in software processionals.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
+### University of Rhode Island, Master of Science in Computer Science.
+- Thesis track, with thesis on the research, design, and implementation of an object-oriented computer-aided design system. A fully operational CAD system with tablet input and plotter and video output was developed to support my research.
+- Attended graduate school on a full-scholarship teaching assistantship.
+- Served as a representative on the Graduate Student Association.
+### University of Rhode Island, Bachelor of Science in Computer Science.
 
-### Markdown
+## Professional Experience
+### Software Engineer, Vestcom, Inc.
+**Company Overview:** Leading provider of in-store signs, tags, and shelftalkers for grocery, pharmacy and other retail outlets.
+- Designed and developed new tools, including a self-contained file package validator that generates runnable plug-ins from an XML file, a hot-swapable plug-in architecture for custom data warehouse lookups, and a real-time file monitor for tracking and reporting SLA metrics.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
