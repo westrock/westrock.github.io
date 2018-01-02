@@ -44,6 +44,36 @@ I am experienced in all phases of commercial and in-house software development, 
 
 **Technologies:** ASP.Net, C#, VB, SOAP, MSXML, MSSQL T-SQL
 
+### Director, Internet Programming, Advertising Specialty Institute	
+**Company Overview:** Leader in the promotional products industry, Trevose, PA
+- Managed two groups of developers, working closely with Product- and Project-Managers, reporting to Vice President of Application Development.  As an architect and team leader I performed requirements analysis, wrote functional and detailed design documents, and lead two teams in the development of new products and product enhancements.
+- Lead the design and development of several data-driven projects, including: an email-based advertising delivery system; a credit reporting and recording system; and the LogoMall family of products - web portals for the promotional products industry.  
+- The LogoMall family of products represented over 7 thousand domains and presented customized store-fronts, complete with product search, shopping cart, checkout, etc.  Advanced features included the use of the Endeca search engine, the ability to rank preferred vendors, pre-set searches, etc.  The portal was implemented in ASP.Net using the C# language, with SQLServer as the database. Each customer site was completely configurable with respect to themes, layout, etc.  Responsible for web-based products that generated $4.6 million in revenue in the last 9 months of my tenure.
+
+**Technologies:** ASP.Net, C#, VB, SOAP, MSXML, MSSQL T-SQL, Endeca
+
+### Technical Lead, Senior Programmer, NetReach, Inc.
+**Company Overview:** Regional ISP and internet solutions company, Ambler, PA
+- Designed and developed database-driven eCommerce web sites, message boards, electronic magazines, etc., using Microsoft's ASP.Net, Active Server Pages, SiteServer Commerce Edition and SQL Server.
+- Developed a tool for automatically generating data-management web pages. The application retrieved a database table's schema and generated a set of list, create, edit, and delete pages, dramatically reducing development time.
+- Developed internal web sites to support sales and technical staff.
+- Technical-lead and primary architect the 2001 Philadelphia Eagles website, http://www.philadelphiaeagles.com.  The site was a daily news vehicle, contained a fully functional eCommerce store, a message board of my design, and more. Handled over 60,000 unique visitors per day, a peak of 2700 simultaneous guests with over 1000 simultaneous page requests.
+- Other commercial web sites currently operating on which I was lead or primary developer included:
+www.petfooddirect.com  www.biomol.com  www.chemical.net   www.togosspeedlunch.com.
+ 
+**Technologies:** ASP, VB, C, C#, COM and DCOM, MSSQL T-SQL, VB Script, Javascript
+
+### Software Engineer, Voice Modeling Group, Voxware, Inc.
+**Company Overview:** Researcher of physiologically modeled speech compression, Princeton, NJ
+- Member of Voxware's Voice Modeling Group, where voice-alteration and speech analysis/synthesis products were researched and developed.  Produced finished products, including cross-platform APIs and GUI-based applications and demos, in order to showcase VMG's research efforts.
+- Developed shrink-wrapped Macintosh and cross-platform Java/C++ applications to perform and demonstrate speaker-to-speaker voice conversion, animation lip-sync, and text-sync technologies.
+- Designed, implemented, and deployed VoiceFontsª 3.0 with another principal engineer. Co-produced a range of product life-cycle documentation, including functional and detail design specifications. Participated with entire VMG team, as co-author, in patent filing for VoiceFontsª 3.0.
+- Presented internal seminar on developing cross-platform Java/C/C++ applications using JNI.
+
+**Technologies:** Java, C, C++, Macintosh Toolbox (Carbon)
+
+## ADDITIONAL EXPERIENCE
+
 
 1. Numbered
 2. List
