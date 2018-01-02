@@ -13,10 +13,16 @@ I am experienced in all phases of commercial and in-house software development, 
 ### Software Engineer, Vestcom, Inc.
 **Company Overview:** Leading provider of in-store signs, tags, and shelftalkers for grocery, pharmacy and other retail outlets.
 - Designed and developed new tools, including a self-contained file package validator that generates runnable plug-ins from an XML file, a hot-swapable plug-in architecture for custom data warehouse lookups, and a real-time file monitor for tracking and reporting SLA metrics.
+**Technologies:** ASP.Net, C#, MSSQL T-SQL, SSIS, Php, MySQL, C
+
+### CEO, Westrock Toys, LLC dba Learning Express Toys of Little Rock
+**Company Overview:** Specialty toy store, Little Rock, AR
+- Performed all daily back-office operations of retail business that did $500K in annual sales. Procured and managed inventory of several thousand SKUs supplied by approximately 150 individual vendors. Managed marketing strategies, social media, sales and promotions, human resources, budget, customer service, and negotiations.  Also worked as an integral member of the sales team.
+- Developed web-based tool to track inventory performance and aid in purchasing. Developed an employee scheduling tool.
+**Technologies:** ASP.Net, C#, MSSQL T-SQL, XAML, XML, WPF
 
 
-- Bulleted
-- List
+
 
 1. Numbered
 2. List
